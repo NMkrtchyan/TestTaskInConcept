@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTaskInConcept</string>
+    <string name="all_list">All list</string>
+    <string name="favorite_list">Favorite list</string>
+</resources>
